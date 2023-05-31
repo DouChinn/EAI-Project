@@ -17,7 +17,7 @@ Welcome to the comprehensive collection of articles, papers, and various materia
 
 # Articles
 <details>
-<summary>Click to expand</summary>
+<summary>EAI Market 2022 - 2030: Global Size, Trends, Growth Insights</summary>
 
 <!-- Content goes here -->
 - Martketplace 
