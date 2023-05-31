@@ -1,24 +1,27 @@
 # Emotion Artificial Intelligence
 
+
 ## WELCOME!!!
 Welcome to the Emotional Artificial Intelligence (EAI) Project repository! This repository serves as a centrailized hub for gathering materials and articles related to our ongoing EAI project. Our goal is to explore and understand nascent EAI technologies while addressing the derivative ethical and privacy concerns. 
 
-![Uploading image.png…]()
 
 ## Project Overview
 The field of emotion AI holds great potential in various domains, including healthcare, education, marketing, and human-computer interaction. By collecting and analyzing a wide range of materials and articles, we aim to build a comprehensive knowledge base that supports our research and development efforts. This repository allows us to gather valuable resources, share knowledge, and collaborate with the community interested in emotion AI.
 
+
 ## Repository Structure
-- **Research Papers**: This folder contains academic papers, conference proceedings, and research articles related to emotion AI, machine learning, natural language processing, and related fields.
-- **Datasets**: Here, you will find datasets and annotations used in emotion recognition tasks, sentiment analysis, facial expression analysis, and other relevant areas.
-- **Code Samples**: TBA
-- **Resources**: In this folder, we provide additional resources such as books, tutorials, blog posts, and videos that can aid in understanding emotion AI concepts and techniques.
+- **Research Proposal Paper**: This page contains the research proposal paper of this project.
+- **Resources**: This folder contains academic papers, conference proceedings, and additional resources such as books, tutorials, blog posts, and videos that can aid in understanding emotion AI concepts and techniques.
+- **Reserach Materials**: TBA
+
 
 ## Contributing
 TBA
 
+
 ## Future Plans
 TBA
+
 
 ## Contact
 For any questions, suggestions, or collaboration opportunities, feel free to reach out to us through the following channels:
