@@ -11,11 +11,14 @@ The field of emotion AI holds great potential in various domains, including heal
 
 ## Repository Structure
 
-### [Research Proposal Paper](Proposal/README.md) 📃: This page contains the research proposal paper of this project.
+### [Research Proposal Paper](Proposal/README.md) 📃
+This page contains the research proposal paper of this project.
 
-### [Resources](Resources/README.md)🌍: This folder contains academic papers, conference proceedings, and additional resources such as books, tutorials, blog posts, and videos that can aid in understanding emotion AI concepts and techniques.
+### [Resources](Resources/README.md)🌍
+This folder contains academic papers, conference proceedings, and additional resources such as books, tutorials, blog posts, and videos that can aid in understanding emotion AI concepts and techniques.
 
-### [Research Materials](Materials/README.md): TBA
+### [Research Materials](Materials/README.md)
+TBA
 
 
 
