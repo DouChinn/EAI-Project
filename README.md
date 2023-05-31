@@ -3,7 +3,7 @@
 
 ## WELCOME 👋🏼
 Welcome to the Emotional Artificial Intelligence (EAI) Project repository! This repository serves as a centrailized hub for gathering materials and articles related to our ongoing EAI project. Our goal is to explore and understand nascent EAI technologies while addressing the derivative ethical and privacy concerns. 
-![Alt Text](img-folder/Eai.png)
+![Alt Text](img-folder/Eai.jpg)
 
 
 
