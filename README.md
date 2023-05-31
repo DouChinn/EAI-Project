@@ -15,8 +15,8 @@ The field of emotion AI holds great potential in various domains, including heal
 
 ### [Resources](Resources/README.md): This folder contains academic papers, conference proceedings, and additional resources such as books, tutorials, blog posts, and videos that can aid in understanding emotion AI concepts and techniques.
 
-- **Reserach Materials**: TBA
-- ### [Research Materials](Proposal/README.md): 
+### [Research Materials](Materials/README.md): TBA
+
 
 
 ## Contributing
