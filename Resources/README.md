@@ -1,6 +1,16 @@
-HOW TO ADD NEW ITEMS:
+<!-- HOW TO ADD NEW ITEMS:
 1. In this page, we use taggle lists, whose title represents the name of the resource (name of articles, papers, etc,.) and content includes correspoding description and remarks.
-2. You may ctrl+c\v following template code, which 
+2. You may ctrl+c\v following template code and modify the name & content.
+ 
+  <details>
+  <summary>TITLE</summary>
+
+  <!-- Content goes here -->
+  - Item 1 
+  - Item 2
+  - Item 3
+
+  </details> -->
 
 # 🌎 Resources 
 
@@ -26,5 +36,9 @@ Welcome to the comprehensive collection of articles, papers, and various materia
 - Item 3
 
 </details>
+
+# Research Methodology
+
+
 
 
