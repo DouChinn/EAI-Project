@@ -16,8 +16,10 @@
 Welcome to the comprehensive collection of articles, papers, and various materials aimed at promoting the learning of EAI. This page serves as a valuable resource for individuals seeking to expand their knowledge in this field. We encourage you to contribute by adding more resources to enrich this collection further. Let's collaboratively build a robust repository of EAI learning materials!
 
 # Articles
+To find more information, visit the 
+
 <details>
-<summary>EAI Market 2022 - 2030: Global Size, Trends, Growth Insights</summary>
+<summary>[EAI Market 2022 - 2030: Global Size, Trends, Growth Insights]([https://www.openai.com/](https://engre.co/news/articles/emotional-ai-market-2022-2030/)). </summary>
 
 <!-- Content goes here -->
 - Martketplace 
