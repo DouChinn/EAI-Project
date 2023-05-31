@@ -22,37 +22,22 @@ Welcome to the comprehensive collection of articles, papers, and various materia
 <details>
 <summary>EAI Market 2022 - 2030: Global Size, Trends, Growth Insights </summary>
 
+- [Website](https://engre.co/news/articles/emotional-ai-market-2022-2030/)
+- Summary
+</details>
+
+
+
+# Research Methodology
+<details>
+<summary>EAI Market 2022 - 2030: Global Size, Trends, Growth Insights </summary>
+
 <!-- Content goes here -->
 - [Website](https://engre.co/news/articles/emotional-ai-market-2022-2030/)
 - Summary
  
 
 </details>
-# <details>
-  <summary>Articles</summary>
-
-  [Website Title](https://www.google.com/)
-
-  - Item 1 
-  - Item 2
-  - Item 3
-
-</details>
-
-
-
-<details>
-<summary>Click to expand</summary>
-
-<!-- Content goes here -->
-- Martketplace 
-- Item 2
-- Item 3
-
-</details>
-
-# Research Methodology
-
 
 
 
