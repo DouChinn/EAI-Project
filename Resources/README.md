@@ -20,12 +20,12 @@ To find more information, visit the
 
 
 <details>
-<summary>. </summary>
+<summary>EAI Market 2022 - 2030: Global Size, Trends, Growth Insights </summary>
 
 <!-- Content goes here -->
-- [EAI Market 2022 - 2030: Global Size, Trends, Growth Insights](https://engre.co/news/articles/emotional-ai-market-2022-2030/)
-- Item 2
-- Item 3
+- [Website](https://engre.co/news/articles/emotional-ai-market-2022-2030/)
+- Summary
+ 
 
 </details>
 # <details>
