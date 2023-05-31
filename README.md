@@ -3,7 +3,6 @@
 
 ## WELCOME 👋🏼
 Welcome to the Emotional Artificial Intelligence (EAI) Project repository! This repository serves as a centrailized hub for gathering materials and articles related to our ongoing EAI project. Our goal is to explore and understand nascent EAI technologies while addressing the derivative ethical and privacy concerns. 
-<img src="img-folder/Eai.jpg" alt="FRANZISKA BARCZYK" >
 
 <div style="text-align:center;">
   <img src="img-folder/Eai.jpg" alt="FRANZISKA BARCZYK" width="810" height="540">
