@@ -14,11 +14,4 @@ Welcome to the comprehensive collection of articles, papers, and various materia
 
 </details>
 
-<style>
-details {
-    margin-bottom: 10px;
-}
-details summary {
-    cursor: pointer;
-}
-</style>
+
