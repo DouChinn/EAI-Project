@@ -9,6 +9,11 @@ Welcome to the Emotional Artificial Intelligence (EAI) Project repository! This 
   <figcaption align="center">FRANZISKA BARCZYK</figcaption>
 </p>
 
+<div style="text-align: center;">
+  <img src="img-folder/Eai.jpg" alt="FRANZISKA BARCZYK" width="810" height="540">
+  <p style="text-align: center;">This is the caption for the image.</p>
+</div>
+
 
 ## Project Overview 📍
 The field of emotion AI holds great potential in various domains, including healthcare, education, marketing, and human-computer interaction. By collecting and analyzing a wide range of materials and articles, we aim to build a comprehensive knowledge base that supports our research and development efforts. This repository allows us to gather valuable resources, share knowledge, and collaborate with the community interested in emotion AI.
