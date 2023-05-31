@@ -6,6 +6,7 @@ Welcome to the Emotional Artificial Intelligence (EAI) Project repository! This 
 
 <p align="center">
   <img src="img-folder/Eai.jpg" alt="FRANZISKA BARCZYK" width="810" height="540">
+  <figcaption>FRANZISKA BARCZYK</figcaption>
 </p>
 
 
