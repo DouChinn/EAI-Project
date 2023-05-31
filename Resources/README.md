@@ -28,13 +28,16 @@ To find more information, visit the
 
 </details>
 <details>
-  <summary>[Website Title](https://www.google.com/)</summary>
+  <summary>TITLE</summary>
+
+  [Website Title](https://www.google.com/)
 
   - Item 1 
   - Item 2
   - Item 3
 
 </details>
+
 
 
 <details>
