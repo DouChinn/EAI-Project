@@ -27,6 +27,15 @@ To find more information, visit the
 - Item 3
 
 </details>
+<details>
+  <summary>[Website Title](https://www.google.com/)</summary>
+
+  - Item 1 
+  - Item 2
+  - Item 3
+
+</details>
+
 
 <details>
 <summary>Click to expand</summary>
