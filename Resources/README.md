@@ -17,7 +17,7 @@ Welcome to the comprehensive collection of articles, papers, and various materia
 
 
 
-## Papers
+## Research Papers
 
 <details>
 <summary>title </summary>
@@ -28,7 +28,7 @@ Welcome to the comprehensive collection of articles, papers, and various materia
 
 
 
-## Articles
+## Professional Articles
 <!-- 1 -->
 <details>
 <summary>EAI Market 2022 - 2030: Global Size, Trends, Growth Insights </summary>
