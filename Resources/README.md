@@ -22,7 +22,7 @@ To find more information, visit the
 <summary>. </summary>
 
 <!-- Content goes here -->
-[EAI Market 2022 - 2030: Global Size, Trends, Growth Insights]([https://www.openai.com/](https://engre.co/news/articles/emotional-ai-market-2022-2030/)
+[EAI Market 2022 - 2030: Global Size, Trends, Growth Insights]([(https://engre.co/news/articles/emotional-ai-market-2022-2030/)]
  
 - Item 2
 - Item 3
