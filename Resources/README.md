@@ -17,7 +17,7 @@ Welcome to the comprehensive collection of articles, papers, and various materia
 
 
 
-# Articles
+## Papers
 
 <details>
 <summary>EAI Market 2022 - 2030: Global Size, Trends, Growth Insights </summary>
@@ -28,7 +28,18 @@ Welcome to the comprehensive collection of articles, papers, and various materia
 
 
 
-# Research Methodology
+## Articles
+
+<details>
+<summary>EAI Market 2022 - 2030: Global Size, Trends, Growth Insights </summary>
+
+- [Website](https://engre.co/news/articles/emotional-ai-market-2022-2030/)
+- Summary
+</details>
+
+
+
+## Research Methodology
 <details>
 <summary>EAI Market 2022 - 2030: Global Size, Trends, Growth Insights </summary>
 
