@@ -27,8 +27,8 @@ To find more information, visit the
 - Item 3
 
 </details>
-<details>
-  <summary>TITLE</summary>
+# <details>
+  <summary>Articles</summary>
 
   [Website Title](https://www.google.com/)
 
