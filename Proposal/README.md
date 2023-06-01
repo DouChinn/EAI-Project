@@ -16,21 +16,19 @@ TBA
 
 
 ## Methodology
+Generally, this article employs quanlitative research methodologies to tackle above RQs. The whole research process contains data collection and data analysis.
 
-### Research Methodology
-Explain the research design and methods you will employ for your investigation. Since you plan to study a small sample of 5-10 students, qualitative research methods may be more appropriate. Consider using semi-structured interviews or focus group discussions to gather in-depth insights and opinions. Justify why this methodology is suitable for exploring students' perceptions.
-
-### Sampling Strategy
-Describe your sampling strategy and the criteria for participant selection. Since you have a small sample size, consider purposive sampling, selecting students who have varying levels of familiarity with Emotion AI. Explain how this strategy will enable you to capture diverse perspectives.
 
 ### Data Collection
-Detail the data collection process, including the methods you will use, such as interviews or focus groups. Explain how you will ensure participant privacy and obtain informed consent. Outline any ethical considerations and approval processes you will follow, such as obtaining consent from the participants and seeking approval from your institution's ethics committee.
+To complete data collection, the fisrt phase is to use fine designed and modified factorial vignette and investigate partcipants' recognition and/or experience regrading EAI. In the second phase, we consider using semi-structured interviews or focus group discussions to gather in-depth insights and opinions. 
 
 
+<!-- ### Sampling Strategy
+Describe your sampling strategy and the criteria for participant selection. Since you have a small sample size, consider purposive sampling, selecting students who have varying levels of familiarity with Emotion AI. Explain how this strategy will enable you to capture diverse perspectives. -->
 
-## Analysis
+
+### Analysis
 Explain how you will analyze the collected data to derive meaningful insights. For qualitative data, consider using thematic analysis, where you identify recurring themes and patterns in participants' responses. Provide a brief overview of any software or tools you plan to use for analysis.
-
 
 
 ## Timeline
