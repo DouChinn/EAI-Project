@@ -18,7 +18,7 @@ The field of emotion AI holds great potential in various domains, including heal
 
 ## Repository Structure 🌐
 
-### [Research Proposal Paper](Proposal/README.md) 
+### [Research Proposal](Proposal/README.md) 
 This page contains the research proposal paper of this project.
 
 ### [Resources](Resources/README.md) 
