@@ -31,8 +31,9 @@ Describe your sampling strategy and the criteria for participant selection. Sinc
 
 
 ## Timeline
-Create a timeline that outlines the different stages of your research project, including data collection, analysis, and report writing. Allocate realistic time frames for each stage to ensure smooth progress.
-
+<p align="center">
+  <img src="img-folder/timeline.png" alt="TIMELINE" width="600" height="100">
+</p>
 
 
 ## Limitations
