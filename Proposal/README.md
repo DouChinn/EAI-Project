@@ -28,7 +28,7 @@ Describe your sampling strategy and the criteria for participant selection. Sinc
 
 
 ### Analysis
-Explain how you will analyze the collected data to derive meaningful insights. For qualitative data, consider using thematic analysis, where you identify recurring themes and patterns in participants' responses. Provide a brief overview of any software or tools you plan to use for analysis.
+❗️PSEDU：Explain how you will analyze the collected data to derive meaningful insights. For qualitative data, consider using thematic analysis, where you identify recurring themes and patterns in participants' responses. Provide a brief overview of any software or tools you plan to use for analysis.
 
 
 ## Timeline
