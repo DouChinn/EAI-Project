@@ -1,19 +1,14 @@
 # Research Proposal 📃
 
 ## Introduction
-Emotion articifial intelligence (EAI) refers to the techniques designed to recognize, analyse, and interpret human emotions. Combining the psychological knowlege of human emotions and machine learing techniques, EAI aims to gap the bridge between humnan emotions and machines by enabling machine to process emotion cues. Technology has always been a double-edged sword, though. The discourse surrounding the application of Emotion AI (EAI) is characterized by tension and polarization. 
+Emotion artificial intelligence (EAI) refers to the techniques designed to recognize, analyze, and interpret human emotions. Combining the psychological knowledge of human emotions and machine learning techniques, EAI aims to bridge the gap between human emotions and machines by enabling machines to process emotion cues. Technology has always been a double-edged sword, though. The discourse surrounding the application of Emotion AI (EAI) is characterized by tension and polarization.
 
-Althought it is a relatively nascent field, the discouse and research with respect to EAI in the context of workplace have been in full swing.  
-in the workplace,  
-The Computer-Supported Cooperative Work (CSCW) and Human-Computer Interaction (HCI) scholarship have long been interested in the implications of technology integration in the workplace. Technological advancements have supported workplaces in digital transformations of their processes by incorporating AI to augment and automate organizational decisions and to monitor and manage workers [74, 90, 123, 132, 152].
+AI is an typical technological advancement that support workplaces automativeorganizational decisions and monitor. Althought EAI is a relatively nascent field, the discouse and research about EAI in the context of workplace is rapidly advancing. However, there is limited comprehensive studies focusing on the EAI literacy of student groups, particularly recent graduates who are about to enter the workplace and directly experience the impact of EAI. This is a significant oversight considering the crucial role they play in shaping the future of organizations and their ability to effectively leverage AI technologies. To this end, we adress following research questions:
 
-This research aim to explore and understand the students' perceiption and recognition of EAI by conducting surveys and open-ended interviews (N=5~10). developing researchers understanding of current student group's AI literacy together with 
+* RQ1: What are the UCI computer science students' general perceptions and attitudes towards EAI?
+* RQ2: How can educational institutions better prepare students for the integration and utilization of EAI technologies in the future?
 
-
-
-
-
-Begin with an introduction that explains the significance and relevance of the research topic. Provide background information on Emotion AI and its potential impact on education. Highlight the need to understand students' perception to improve its implementation. Clearly state the research objectives and research questions that will guide your study.
+Due to the and capacity restrictions, this study only experiments at the scale of University of California, Irvine (UCI) campus with a sample of approximately ten computer science student participants. Future work can study how these perceptions vary across wider and different demographic groups and educational backgrounds. This includes a consideration of demographic and educational factors that may influence students' perceptions of EAI and expanded question allows for a more comprehensive understanding of the students' perspectives and helps identify potential variations in their attitudes towards EAI. 
 
 
 
