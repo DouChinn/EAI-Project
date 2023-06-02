@@ -34,8 +34,7 @@ Welcome to the comprehensive collection of articles, papers, and various materia
 <summary>EAI Market 2022 - 2030: Global Size, Trends, Growth Insights </summary>
 
 - [Website](https://engre.co/news/articles/emotional-ai-market-2022-2030/)
-- Summary
-  This article provides an insightful overview of the Emotional AI Market, highlighting its applications in various fields such as entertainment and healthcare. In 2021, the global smart speaker market generated a staggering profit of 12.7 billion US dollars, and it is projected to witness substantial growth and potentially reach even greater heights by 2027.
+- This article provides an insightful overview of the Emotional AI Market, highlighting its applications in various fields such as entertainment and healthcare. In 2021, the global smart speaker market generated a staggering profit of 12.7 billion US dollars, and it is projected to witness substantial growth and potentially reach even greater heights by 2027.
 
 </details>
 
