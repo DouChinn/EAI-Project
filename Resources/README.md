@@ -42,7 +42,7 @@ Welcome to the comprehensive collection of articles, papers, and various materia
 
 
 
-## Research Methodology
+## Research Methodologies & Tools
 <details>
 <summary>EAI Market 2022 - 2030: Global Size, Trends, Growth Insights </summary>
 
