@@ -20,9 +20,9 @@ Welcome to the comprehensive collection of articles, papers, and various materia
 ## Research Papers
 
 <details>
-<summary>title </summary>
+<summary>Data Subjects' Perspectives on Emotion Artificial Intelligence Use in the Workplace: A Relational Ethics Lens </summary>
 
-- [Website](https://engre.co/news/articles/emotional-ai-market-2022-2030/)
+- [View Paper]([https://engre.co/news/articles/emotional-ai-market-2022-2030/](https://dl.acm.org/doi/abs/10.1145/3579600))
 - Summary
 </details>
 
